@@ -11,7 +11,7 @@ p {
 }
 
 a, a:visited {
-	color: #3498DB;
+	color: #7d73ff;
 }
 
 a:hover, a:active, a:focus {
@@ -25,7 +25,7 @@ span#bold {
 }
 
 .main {
-	padding-top: 20vh;
+	padding-top: 10vh;
 	margin-right: 6vw;
 	margin-left: 6vw;
 }
@@ -54,7 +54,7 @@ div.links > a {
 
 div.links > a:hover, div.links > a:active, div.links > a:focus {
 	color: #FFF;
-	background-color: #3498DB;
+	background-color: #7d73ff;
 	padding: 4px;
 	border-radius: 10px;
 }
@@ -70,7 +70,7 @@ div.links > a:hover, div.links > a:active, div.links > a:focus {
 	}
 
 	.main {
-		padding-top: 26vh;
+		padding-top: 10vh;
 		margin-right: 18vw;
 		margin-left: 18vw;
 	}
